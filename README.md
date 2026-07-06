@@ -90,19 +90,11 @@ Je bosse avec l'IA **des deux côtés**, et je le revendique :
 
 ## 🚀 Projets publics
 
-<div align="center">
-
-<a href="https://github.com/PINKKAGUY/pinkkblock">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PINKKAGUY&repo=pinkkblock&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/PINKKAGUY/olivae">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PINKKAGUY&repo=olivae&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/PINKKAGUY/pratice-design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PINKKAGUY&repo=pratice-design&theme=radical&hide_border=true" />
-</a>
-
-</div>
+| Projet | Description | Stack |
+|:--|:--|:--|
+| **[pinkkblock](https://github.com/PINKKAGUY/pinkkblock)** | Extension Chrome (Manifest V3) : bloque pubs, popups, redirections forcées et détecteurs d'adblock | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **[olivae](https://github.com/PINKKAGUY/olivae)** | Landing page premium pour un restaurant méditerranéen à Dubaï | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **[pratice-design](https://github.com/PINKKAGUY/pratice-design)** | Showcase design : typographie, layouts, micro-interactions & animations CSS | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) |
 
 > 🔒 J'ai aussi plusieurs projets **en cours en privé** — d'après leurs descriptions : une marketplace de formations (Turborepo + NestJS + Next.js), un outil de visibilité de marque dans les moteurs IA, une app mobile de scan de documents (React Native + Gemini).
 
@@ -114,18 +106,17 @@ Je bosse avec l'IA **des deux côtés**, et je le revendique :
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PINKKAGUY&show_icons=true&count_private=true&hide_border=true&theme=radical&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PINKKAGUY&layout=compact&hide_border=true&theme=radical&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=PINKKAGUY&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PINKKAGUY&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<!-- Carte de série (streak) — hébergée sur demolab.com, fiable -->
+<img src="https://streak-stats.demolab.com/?user=PINKKAGUY&theme=radical&hide_border=true" alt="streak stats" />
 
 </div>
+
+<!--
+  📌 Cartes de stats détaillées (commits, PR, langages) volontairement retirées :
+  elles passaient par l'instance publique github-readme-stats.vercel.app, rate-limitée.
+  À réactiver en auto-hébergé (VPS Contabo) pour un affichage fiable + accès aux repos privés.
+-->
+
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    SNAKE (contributions)                    ║ -->
