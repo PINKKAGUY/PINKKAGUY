@@ -151,3 +151,5 @@ Je bosse avec l'IA **des deux côtés**, et je le revendique :
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8B00FF&height=120&section=footer" width="100%" />
+
+<!-- refresh profil -->
