@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,100:00E5FF&height=200&section=header&text=PINKKAGUY&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20Indie%20Hacker&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,100:00E5FF&height=200&section=header&text=PINKKAGUY&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TypeScript%20%7C%20Next.js%20%7C%20React%20Native%20%7C%20NestJS&descSize=18&descAlignY=58" width="100%" />
 
 <!-- Effet machine à écrire animé -->
 <a href="https://github.com/PINKKAGUY">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;SaaS+Builder+%26+Indie+Hacker;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+React+Native;Je+construis+des+produits+avec+l'IA+%F0%9F%A4%96" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=680&lines=D%C3%A9veloppeur+web+%26+mobile;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+NestJS;Je+construis+des+apps+et+des+produits+IA;L'IA+dans+mes+produits+ET+dans+ma+fa%C3%A7on+de+coder" alt="typing" />
 </a>
 
 <br/>
@@ -22,22 +22,32 @@
 <!-- ║                        À PROPOS                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> À propos
+## À propos
 
 ```ts
 const pinkkaguy = {
-  role: "Développeur full-stack & indie hacker",
-  focus: ["SaaS de A à Z", "produits augmentés à l'IA", "beau front"],
+  role: "Développeur — web & mobile",
   stack: ["TypeScript", "Next.js", "React Native", "NestJS", "Tailwind"],
-  building: ["marketplace de formations", "outil de visibilité IA", "bot Discord universel"],
-  whenNotCoding: "🎮 gamer dans l'âme",
+  builds: ["apps web & mobile", "backends", "extensions Chrome", "bots Discord"],
+  ai: "dans mes produits (Gemini) et dans mon workflow (Claude Code)",
 };
 ```
 
-- 🚀 Je conçois et j'**expédie** des SaaS complets — du back au pixel près
-- 🤖 J'intègre l'**IA** dans mes produits (Gemini, Claude)
-- 🧩 Obsédé par une stack **TypeScript** moderne et un front soigné
-- 📫 Me joindre : **matthiasauge.pro@gmail.com**
+- 🧩 Je construis des **apps web** (Next.js), des **apps mobiles** (React Native / Expo), des **backends** (NestJS), des **extensions Chrome** (Manifest V3) et des **bots Discord**.
+- 🧠 J'écris principalement en **TypeScript**.
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    L'IA DANS MON TRAVAIL                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🤖 L'IA dans mon travail — c'est assumé
+
+Je bosse avec l'IA **des deux côtés**, et je le revendique :
+
+- **Dans mes produits** — j'intègre des modèles (Gemini, Claude). Ex. : `scandocs-ia` classe automatiquement des documents scannés, `geo-aeo` mesure la visibilité d'une marque dans les réponses des IA.
+- **Dans ma façon de construire** — je développe avec des outils comme **Claude Code**. Je conçois l'architecture, j'oriente, je relis et je livre. L'IA **accélère** mon travail ; les décisions techniques et la responsabilité du résultat **restent les miennes**.
+
+> Utiliser ces outils correctement, c'est une compétence — pas un raccourci.
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                         STACK                               ║ -->
@@ -78,7 +88,7 @@ const pinkkaguy = {
 <!-- ║                    PROJETS EN VEDETTE                        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 🚀 Projets en vedette
+## 🚀 Projets publics
 
 <div align="center">
 
@@ -94,7 +104,7 @@ const pinkkaguy = {
 
 </div>
 
-> 🔒 **+ plusieurs SaaS en développement privé** — marketplace de formations (Turborepo + NestJS + Next.js), outil de *share-of-voice* dans les moteurs IA, app mobile de scan de documents (React Native + Gemini), bot Discord universel…
+> 🔒 J'ai aussi plusieurs projets **en cours en privé** — d'après leurs descriptions : une marketplace de formations (Turborepo + NestJS + Next.js), un outil de visibilité de marque dans les moteurs IA, une app mobile de scan de documents (React Native + Gemini).
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                         STATS                               ║ -->
@@ -133,8 +143,11 @@ const pinkkaguy = {
 
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         PIED DE PAGE                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- Envie d'ajouter tes liens ? Décommente et complète :
+<div align="center">
+  <a href="TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="TON_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</div>
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8B00FF&height=120&section=footer" width="100%" />
