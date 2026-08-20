@@ -112,8 +112,9 @@ Je bosse avec l'IA **des deux côtés**, et je le revendique :
 
 <div align="center">
 
-<!-- Carte de série (streak) — hébergée sur demolab.com, fiable -->
-<img src="https://streak-stats.demolab.com/?user=PINKKAGUY&theme=radical&hide_border=true" alt="streak stats" />
+<!-- Carte de série (streak) — disable_animations obligatoire : sans ça les chiffres
+     sont rendus avec opacity 0 et restent invisibles derrière le proxy d'images GitHub. -->
+<img src="https://streak-stats.demolab.com/?user=PINKKAGUY&theme=radical&hide_border=true&disable_animations=true" alt="streak stats" />
 
 </div>
 
