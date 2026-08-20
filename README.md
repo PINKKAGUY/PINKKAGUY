@@ -108,22 +108,17 @@ Je bosse avec l'IA **des deux côtés**, et je le revendique :
 <!-- ║                         STATS                               ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 📊 Statistiques
-
-<div align="center">
-
-<!-- Carte de série (streak) — disable_animations obligatoire : sans ça les chiffres
-     sont rendus avec opacity 0 et restent invisibles derrière le proxy d'images GitHub. -->
-<img src="https://streak-stats.demolab.com/?user=PINKKAGUY&theme=radical&hide_border=true&disable_animations=true" alt="streak stats" />
-
-</div>
-
 <!--
-  📌 Cartes de stats détaillées (commits, PR, langages) volontairement retirées :
-  elles passaient par l'instance publique github-readme-stats.vercel.app, rate-limitée.
-  À réactiver en auto-hébergé (VPS Contabo) pour un affichage fiable + accès aux repos privés.
+  📌 Section « Statistiques » retiree : aucun service tiers n'est fiable ici.
+    - github-readme-stats.vercel.app : 503 / rate-limite.
+    - streak-stats.demolab.com : repond en 10-13 s, le proxy d'images de GitHub
+      abandonne avant la fin et l'image casse.
+  Les cartes de ce type dessinent aussi leurs chiffres avec opacity 0 puis les
+  revelent par une animation CSS, que GitHub bloque : meme servies, elles
+  s'affichent vides sans le parametre disable_animations.
+  À reactiver en auto-heberge (VPS Contabo) pour un affichage fiable + repos prives.
+  Le graphe de contributions ci-dessous est genere par Actions, donc toujours dispo.
 -->
-
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    SNAKE (contributions)                    ║ -->
