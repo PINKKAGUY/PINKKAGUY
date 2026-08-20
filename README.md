@@ -4,12 +4,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,100:00E5FF&height=200&section=header&text=PINKKAGUY&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TypeScript%20%7C%20Next.js%20%7C%20React%20Native%20%7C%20NestJS&descSize=18&descAlignY=58" width="100%" />
+<!-- Banniere decorative uniquement : le texte rendu par capsule-render est anime en CSS,
+     et GitHub bloque les animations dans les images distantes -> il resterait invisible. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,100:00E5FF&height=180&section=header" width="100%" alt="" />
 
-<!-- Effet machine à écrire animé -->
-<a href="https://github.com/PINKKAGUY">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=680&lines=D%C3%A9veloppeur+web+%26+mobile;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+NestJS;Je+construis+des+apps+et+des+produits+IA;L'IA+dans+mes+produits+ET+dans+ma+fa%C3%A7on+de+coder" alt="typing" />
-</a>
+<h1>PINKKAGUY</h1>
+
+<h3>Développeur web &amp; mobile · TypeScript · Next.js · React Native · NestJS</h3>
+
+<p>
+  <strong>Je construis des apps et des produits IA.</strong><br/>
+  L'IA dans mes produits <em>et</em> dans ma façon de coder.
+</p>
 
 <br/>
 
