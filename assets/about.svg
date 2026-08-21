@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="224" viewBox="0 0 880 224" fill="none">
+<rect x="1" y="1" width="878" height="222" rx="14" fill="#0f0810" stroke="#FF1F8F" stroke-opacity="0.42"/>
+<path d="M1 15 A14 14 0 0 1 15 1 H865 A14 14 0 0 1 879 15 V31 H1 Z" fill="#180b14"/>
+<line x1="1" y1="31" x2="879" y2="31" stroke="#FF1F8F" stroke-opacity="0.28"/>
+<circle cx="22" cy="16" r="4.5" fill="#FF1F8F" fill-opacity="1.00"/>
+<circle cx="39" cy="16" r="4.5" fill="#FF1F8F" fill-opacity="0.60"/>
+<circle cx="56" cy="16" r="4.5" fill="#FF1F8F" fill-opacity="0.32"/>
+<text x="84" y="20" fill="#8A7E86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" dominant-baseline="middle">pinkkaguy.ts</text>
+<text x="20" y="58" fill="#8A7E86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="500" dominant-baseline="middle" xml:space="preserve"><tspan fill="#FF1F8F">const </tspan><tspan fill="#F3E9EF">pinkkaguy</tspan><tspan fill="#8A7E86"> = {</tspan></text>
+<text x="20" y="80" fill="#8A7E86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="500" dominant-baseline="middle" xml:space="preserve"><tspan fill="#FF6FB5">  role</tspan><tspan fill="#8A7E86">: </tspan><tspan fill="#FFC2DE">"Développeur — web &amp; mobile"</tspan><tspan fill="#8A7E86">,</tspan></text>
+<text x="20" y="102" fill="#8A7E86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="500" dominant-baseline="middle" xml:space="preserve"><tspan fill="#FF6FB5">  stack</tspan><tspan fill="#8A7E86">: </tspan><tspan fill="#FFC2DE">["TypeScript", "Next.js", "React Native", "NestJS"]</tspan><tspan fill="#8A7E86">,</tspan></text>
+<text x="20" y="124" fill="#8A7E86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="500" dominant-baseline="middle" xml:space="preserve"><tspan fill="#FF6FB5">  builds</tspan><tspan fill="#8A7E86">: </tspan><tspan fill="#FFC2DE">["apps web &amp; mobile", "backends", "extensions Chrome"]</tspan><tspan fill="#8A7E86">,</tspan></text>
+<text x="20" y="146" fill="#8A7E86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="500" dominant-baseline="middle" xml:space="preserve"><tspan fill="#FF6FB5">  bots</tspan><tspan fill="#8A7E86">: </tspan><tspan fill="#FFC2DE">["Discord"]</tspan><tspan fill="#8A7E86">,</tspan></text>
+<text x="20" y="168" fill="#8A7E86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="500" dominant-baseline="middle" xml:space="preserve"><tspan fill="#FF6FB5">  ia</tspan><tspan fill="#8A7E86">: </tspan><tspan fill="#FFC2DE">"Gemini dans mes produits, Claude Code dans mon workflow"</tspan><tspan fill="#8A7E86">,</tspan></text>
+<text x="20" y="190" fill="#8A7E86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="500" dominant-baseline="middle" xml:space="preserve"><tspan fill="#8A7E86">};</tspan></text>
+</svg>
