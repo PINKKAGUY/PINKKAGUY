@@ -1,148 +1,36 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     EN-TÊTE / BANNIÈRE                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<!-- Banniere decorative uniquement : le texte rendu par capsule-render est anime en CSS,
-     et GitHub bloque les animations dans les images distantes -> il resterait invisible. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,100:00E5FF&height=180&section=header" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/PINKKAGUY/PINKKAGUY/main/assets/banner.gif" width="100%" alt="PINKKAGUY — développeur web & mobile" />
 
-<h1>PINKKAGUY</h1>
+<img src="https://komarev.com/ghpvc/?username=PINKKAGUY&label=VUES&color=FF1F8F&style=for-the-badge" alt="vues du profil" />
+<img src="https://img.shields.io/github/followers/PINKKAGUY?label=FOLLOWERS&style=for-the-badge&color=FF1F8F&labelColor=12080f&logo=github&logoColor=FF9ACB" alt="followers" />
 
-<h3>Développeur web &amp; mobile · TypeScript · Next.js · React Native · NestJS</h3>
+<br />
+<br />
 
-<p>
-  <strong>Je construis des apps et des produits IA.</strong><br/>
-  L'IA dans mes produits <em>et</em> dans ma façon de coder.
-</p>
+<img src="https://raw.githubusercontent.com/PINKKAGUY/PINKKAGUY/main/assets/about.svg" width="100%" alt="À propos — const pinkkaguy = { role: 'Développeur, web & mobile', stack: ['TypeScript', 'Next.js', 'React Native', 'NestJS'], builds: ['apps web & mobile', 'backends', 'extensions Chrome'], bots: ['Discord'], ia: 'Gemini dans mes produits, Claude Code dans mon workflow' }" />
 
-<br/>
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=PINKKAGUY&label=Vues%20du%20profil&color=8b00ff&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/PINKKAGUY?label=Followers&style=for-the-badge&color=00e5ff&logo=github&logoColor=white" alt="followers" />
+<img src="https://raw.githubusercontent.com/PINKKAGUY/PINKKAGUY/main/assets/ai.svg" width="100%" alt="L'IA dans mon travail, c'est assumé. Dans mes produits : j'intègre des modèles (Gemini, Claude) ; scandocs-ia classe automatiquement des documents scannés, geo-aeo mesure la visibilité d'une marque dans les réponses des IA. Dans ma façon de construire : je développe avec des outils comme Claude Code, je conçois l'architecture, j'oriente, je relis et je livre ; l'IA accélère mon travail, les décisions techniques et la responsabilité du résultat restent les miennes. Utiliser ces outils correctement, c'est une compétence, pas un raccourci." />
 
-</div>
+<br />
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        À PROPOS                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<img src="https://raw.githubusercontent.com/PINKKAGUY/PINKKAGUY/main/assets/stack.svg" width="100%" alt="Ma stack — Langages : TypeScript, JavaScript, HTML5, CSS3. Frontend : Next.js, React, React Native, Expo, Tailwind, Framer Motion. Backend et outils : Node.js, NestJS, Turborepo, Vercel, Gemini, Git." />
 
-## À propos
+<br />
 
-```ts
-const pinkkaguy = {
-  role: "Développeur — web & mobile",
-  stack: ["TypeScript", "Next.js", "React Native", "NestJS", "Tailwind"],
-  builds: ["apps web & mobile", "backends", "extensions Chrome", "bots Discord"],
-  ai: "dans mes produits (Gemini) et dans mon workflow (Claude Code)",
-};
-```
+<img src="https://raw.githubusercontent.com/PINKKAGUY/PINKKAGUY/main/assets/projects.svg" width="100%" alt="Projets publics — olivae : landing page premium pour un restaurant méditerranéen à Dubaï (Next.js, TypeScript). pinkkblock : extension Chrome MV3 qui bloque pubs, popups et détecteurs d'adblock (JavaScript). pratice-design : showcase design, typographie, layouts et animations CSS. Plusieurs autres projets sont en cours en privé." />
 
-- 🧩 Je construis des **apps web** (Next.js), des **apps mobiles** (React Native / Expo), des **backends** (NestJS), des **extensions Chrome** (Manifest V3) et des **bots Discord**.
-- 🧠 J'écris principalement en **TypeScript**.
+<a href="https://github.com/PINKKAGUY/olivae"><b>olivae</b></a> &nbsp;·&nbsp; <a href="https://github.com/PINKKAGUY/pinkkblock"><b>pinkkblock</b></a> &nbsp;·&nbsp; <a href="https://github.com/PINKKAGUY/pratice-design"><b>pratice-design</b></a>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    L'IA DANS MON TRAVAIL                     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<br />
+<br />
 
-## 🤖 L'IA dans mon travail — c'est assumé
+<img src="https://raw.githubusercontent.com/PINKKAGUY/PINKKAGUY/main/assets/contributions.svg" width="100%" alt="Mes contributions — graphe des contributions GitHub de l'année écoulée." />
 
-Je bosse avec l'IA **des deux côtés**, et je le revendique :
+<br />
 
-- **Dans mes produits** — j'intègre des modèles (Gemini, Claude). Ex. : `scandocs-ia` classe automatiquement des documents scannés, `geo-aeo` mesure la visibilité d'une marque dans les réponses des IA.
-- **Dans ma façon de construire** — je développe avec des outils comme **Claude Code**. Je conçois l'architecture, j'oriente, je relis et je livre. L'IA **accélère** mon travail ; les décisions techniques et la responsabilité du résultat **restent les miennes**.
-
-> Utiliser ces outils correctement, c'est une compétence — pas un raccourci.
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         STACK                               ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🛠️ Ma stack
-
-<div align="center">
-
-**Langages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-**Backend & outils**
-
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://raw.githubusercontent.com/PINKKAGUY/PINKKAGUY/main/assets/footer.svg" width="100%" alt="PINKKAGUY — visuels générés sur mesure et hébergés dans ce dépôt, voir assets/" />
 
 </div>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    PROJETS EN VEDETTE                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🚀 Projets publics
-
-| Projet | Description | Stack |
-|:--|:--|:--|
-| **[pinkkblock](https://github.com/PINKKAGUY/pinkkblock)** | Extension Chrome (Manifest V3) : bloque pubs, popups, redirections forcées et détecteurs d'adblock | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **[olivae](https://github.com/PINKKAGUY/olivae)** | Landing page premium pour un restaurant méditerranéen à Dubaï | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **[pratice-design](https://github.com/PINKKAGUY/pratice-design)** | Showcase design : typographie, layouts, micro-interactions & animations CSS | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) |
-
-> 🔒 J'ai aussi plusieurs projets **en cours en privé** — d'après leurs descriptions : une marketplace de formations (Turborepo + NestJS + Next.js), un outil de visibilité de marque dans les moteurs IA, une app mobile de scan de documents (React Native + Gemini).
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         STATS                               ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<!--
-  📌 Section « Statistiques » retiree : aucun service tiers n'est fiable ici.
-    - github-readme-stats.vercel.app : 503 / rate-limite.
-    - streak-stats.demolab.com : repond en 10-13 s, le proxy d'images de GitHub
-      abandonne avant la fin et l'image casse.
-  Les cartes de ce type dessinent aussi leurs chiffres avec opacity 0 puis les
-  revelent par une animation CSS, que GitHub bloque : meme servies, elles
-  s'affichent vides sans le parametre disable_animations.
-  À reactiver en auto-heberge (VPS Contabo) pour un affichage fiable + repos prives.
-  Le graphe de contributions ci-dessous est genere par Actions, donc toujours dispo.
--->
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    SNAKE (contributions)                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🐍 Mon graphe de contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PINKKAGUY/PINKKAGUY/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PINKKAGUY/PINKKAGUY/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/PINKKAGUY/PINKKAGUY/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<!-- Envie d'ajouter tes liens ? Décommente et complète :
-<div align="center">
-  <a href="TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="TON_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</div>
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8B00FF&height=120&section=footer" width="100%" />
-
-<!-- refresh profil -->
