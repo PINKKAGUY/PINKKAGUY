@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="172" viewBox="0 0 286 172" fill="none">
+<rect x="1" y="1" width="284" height="170" rx="13" fill="#12080f" stroke="#FF1F8F" stroke-opacity="0.4"/>
+<rect x="1" y="1" width="284" height="3" rx="1.5" fill="#FF1F8F"/>
+<text x="20" y="42" fill="#FF1F8F" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700">pratice-design</text>
+<text x="20" y="70" fill="#B9AEB6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11">Showcase design : typographie,</text>
+<text x="20" y="87" fill="#B9AEB6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11">layouts et animations CSS.</text>
+<rect x="20.0" y="132" width="52.4" height="24" rx="7" fill="#1c0c16" stroke="#FF1F8F" stroke-opacity="0.3"/>
+<g transform="translate(28.0,138) scale(0.5)"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z" fill="#FF9ACB"/></g>
+<text x="44.0" y="147" fill="#EBDDE5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" dominant-baseline="middle">CSS3</text>
+<rect x="79.4" y="132" width="59.0" height="24" rx="7" fill="#1c0c16" stroke="#FF1F8F" stroke-opacity="0.3"/>
+<g transform="translate(87.4,138) scale(0.5)"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z" fill="#FF9ACB"/></g>
+<text x="103.4" y="147" fill="#EBDDE5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" dominant-baseline="middle">HTML5</text>
+</svg>
