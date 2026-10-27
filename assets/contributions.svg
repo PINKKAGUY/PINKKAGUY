@@ -381,6 +381,7 @@
 <rect x="809.0" y="156" width="12" height="12" rx="3" fill="#1d1018"/>
 <rect x="824.0" y="66" width="12" height="12" rx="3" fill="#1d1018"/>
 <rect x="824.0" y="81" width="12" height="12" rx="3" fill="#1d1018"/>
+<rect x="824.0" y="96" width="12" height="12" rx="3" fill="#1d1018"/>
 <text x="691.0" y="189.0" fill="#8A7E86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" font-weight="400" text-anchor="start">moins</text>
 <rect x="727.0" y="183.0" width="12" height="12" rx="3" fill="#1d1018"/>
 <rect x="742.0" y="183.0" width="12" height="12" rx="3" fill="#5c1338"/>
